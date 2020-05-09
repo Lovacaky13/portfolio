@@ -1,6 +1,0 @@
-{
-    "apps": [{
-        "name": "gulpfile.js",
-        "script": "gulp"
-    }]
-}
